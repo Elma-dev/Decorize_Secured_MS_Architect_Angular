@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dba8c559-f05b-4888-943d-935dd145b1ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorize_Secured_MS_Architect_Angular.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/AccountServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/entities/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/enums/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/models/Costumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/repositories/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/java/dev/elma/account_service/web/AccountRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account_service/src/test/java/dev/elma/account_service/AccountServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/main/java/dev/elma/costumers_service/CostumersServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/main/java/dev/elma/costumers_service/entities/Costumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/main/java/dev/elma/costumers_service/repositories/CostumerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/main/java/dev/elma/costumers_service/web/CostumerRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/costumers_service/src/test/java/dev/elma/costumers_service/CostumersServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/src/main/java/dev/elma/gateway_service/GatewayServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway_service/src/test/java/dev/elma/gateway_service/GatewayServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/costumers_service" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZueOSne9ig3KZfXnSL5LMtA0YR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/Users/eier/Desktop/javaProj/Decorize_Secured_MS_Architect_Angular/costumers_service/src/main/java/dev/elma/costumers_service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dev.elma.account_service.entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/costumers_service/src/main/java/dev/elma/costumers_service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CostumersServiceApplication">
+    <configuration name="AccountServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="account_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.account_service.AccountServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CostumerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="costumer_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.costumer_service.CostumerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CostumersServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="costumers_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.costumers_service.CostumersServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dev.elma.gateway_service.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba8c559-f05b-4888-943d-935dd145b1ed" name="Changes" comment="" />
+      <created>1703276359555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703276359555</updated>
+      <workItem from="1703276361374" duration="1091000" />
+      <workItem from="1703278072329" duration="6661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
