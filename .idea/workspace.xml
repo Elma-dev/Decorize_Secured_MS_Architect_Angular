@@ -14,11 +14,6 @@
       <change afterPath="$PROJECT_DIR$/configuration_service/src/main/java/dev/elma/configuration_service/ConfigurationServiceApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/configuration_service/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/configuration_service/src/test/java/dev/elma/configuration_service/ConfigurationServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +151,7 @@
       <workItem from="1703276361374" duration="1091000" />
       <workItem from="1703278072329" duration="10842000" />
       <workItem from="1703337227223" duration="12234000" />
-      <workItem from="1703415667995" duration="7401000" />
+      <workItem from="1703415667995" duration="7721000" />
     </task>
     <servers />
   </component>
