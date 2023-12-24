@@ -8,6 +8,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
 import java.util.Date;
 import java.util.List;
@@ -15,6 +16,7 @@ import java.util.List;
 @SpringBootApplication
 @EnableDiscoveryClient// Enable service discovery
 @AllArgsConstructor
+@EnableFeignClients
 public class AccountServiceApplication implements CommandLineRunner{
 	private AccountRepository accountRepository;
 	public static void main(String[] args) {
